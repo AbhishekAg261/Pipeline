@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Welcome to Java Programming!");
         System.out.println("Hello from Jenkins Pipeline!");
         System.out.println("Hello from Jenkins Pipeline!");
+        System.out.println("Hello from Jenkins Pipeline!");
 
     }
 }
